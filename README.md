@@ -130,29 +130,6 @@ scikit-learn
 pandas
 numpy
 
-
-
-
-Project Structure
-Fake-Profile-Detection/
-│
-├── Remote_User/
-│   ├── User authentication
-│   ├── Prediction module
-│   └── User dashboards
-│
-├── Service_Provider/
-│   ├── Admin login
-│   ├── ML model training
-│   ├── Analytics
-│   └── Dataset management
-│
-├── templates/
-├── static/
-├── media/
-├── Profile_Datasets.csv
-├── manage.py
-└── requirements.txt
 Database Models
 ClientRegister_Model
 
